@@ -413,7 +413,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "dilemma.step",
+      "step": "../mechanical/3mod physical design/dilemma_pcb.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
